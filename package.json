@@ -1,0 +1,13 @@
+{
+  "name": "dx-arranger",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DX Arranger for Android (wraps the same panel as the Windows app)",
+  "dependencies": {
+    "@capacitor/android": "~6.2.0",
+    "@capacitor/core": "~6.2.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "~6.2.0"
+  }
+}

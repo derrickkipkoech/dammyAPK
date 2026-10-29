@@ -1,0 +1,7 @@
+{
+  "appId": "com.dxarranger.app",
+  "appName": "DX Arranger",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false }
+}
